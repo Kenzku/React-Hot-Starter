@@ -1,1 +1,1 @@
-# webpack-starter
+react hot plugin examples
